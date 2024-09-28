@@ -1,4 +1,4 @@
-![logo]![image](https://github.com/user-attachments/assets/0e05824c-0f04-45c9-a62d-8a5243730b37)
+![image](https://github.com/user-attachments/assets/0e05824c-0f04-45c9-a62d-8a5243730b37)
 
 <h1 align="center">Hello World 👋,I am Saniya Ahemad</h1>
 <h3 align="center">A passionate Data Scientist and ML engineer from India</h3>
