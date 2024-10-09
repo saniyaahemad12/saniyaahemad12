@@ -1,9 +1,11 @@
-
-
 <h1 align="center">Hello World 👋,I am Saniya Ahemad</h1>
-<h3 align="center">A passionate Data Scientist and ML engineer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saniyaahemad12&label=Profile%20views&color=0e75b6&style=flat" alt="saniyaahemad12" /> </p>
+
+- ⚡I’m pursuing Integrated M. Tech in **Data Science**
+
+- 🌱I'm currently working on **Machine Learning.**
+
+- 👯I’m looking to collaborate on **New Projects**
 
 - I can be reached at : **saniyaahemad15@gmail.com**
 
