@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I am Saniya Ahemad</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saniyaahemad12&label=Profile%20views&color=0e75b6&style=flat" alt="saniyaahemad12" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://connectjaya.com/wp-content/uploads/2022/01/10a01f708bb7f8c50362c7e59f39d22d.gif">
 
 - ⚡ I’m pursuing Integrated M. Tech in **Data Science**
