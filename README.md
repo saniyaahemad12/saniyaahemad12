@@ -40,6 +40,10 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   </a>
+   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="![image](https://github.com/user-attachments/assets/a6c1977a-f489-4b6e-96db-8e861c4f6da3)
+" alt="AWS" width="40" height="40"/>
+  </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
