@@ -1,6 +1,5 @@
 <h1 align="center">Hello World 👋,I am Saniya Ahemad</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saniyaahemad12" alt="saniyaahemad12" /></a> </p>
-
 <img align="right" alt="Coding" width="300" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
