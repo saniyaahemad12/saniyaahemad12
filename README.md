@@ -1,8 +1,8 @@
 <h1 align="center">Hello World 👋,I am Saniya Ahemad</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saniyaahemad12" alt="saniyaahemad12" /></a> </p>
 
-<img align="right" alt="Coding" width="100" src="<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
 
 
 - ⚡I’m pursuing Integrated M. Tech in **Data Science**
