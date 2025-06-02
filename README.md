@@ -3,7 +3,7 @@
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" align="right" width="300" height="200" style="margin-left: 20px;" />
 
-- ⚡ I’m pursuing Integrated M. Tech in **Data Science**  
+- ⚡ I’m pursuing Integrated M. Tech in **Data Science**   
 - 🌱 I'm currently working on **Machine Learning**  
 - 👯 I’m looking to collaborate on **New Projects**  
 - 📫 I can be reached at: [saniyaahemad15@gmail.com](mailto:saniyaahemad15@gmail.com)
