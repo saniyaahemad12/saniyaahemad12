@@ -33,11 +33,11 @@
   </li>
 
   <li style="margin-bottom: 10px;">
-    <strong>Deep Learning:</strong> ANN, CNN, RNN, GAN
+    <strong>Deep Learning:</strong> ANN, CNN, RNN
   </li>
 
   <li style="margin-bottom: 10px;">
-    <strong>Frameworks & Libraries:</strong> Scikit learn, Tensorflow, numpy, Pandas
+    <strong>Frameworks & Libraries:</strong> Scikit learn, Tensorflow, numpy, Pandas, Matplotlib
   </li>
 
   <li style="margin-bottom: 10px;">
