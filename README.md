@@ -8,7 +8,7 @@
 </div>
 
 
-## MERN Projects Tech Stack -
+## Projects Tech Stack -
 
 <ul>
   <li style="margin-bottom: 10px;">
